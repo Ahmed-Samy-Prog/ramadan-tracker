@@ -21,4 +21,4 @@ A beautiful Islamic tracker app to track daily prayers, good deeds, Quran readin
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/ramadan-tracker.git
+git clone https://github.com/Ahmed-Samy-Prog/ramadan-tracker.git
